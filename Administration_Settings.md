@@ -26,13 +26,10 @@
 8.  Type the email address in the **Email** field.
 9.  Save your changes by clicking on **Update**.
 
-<div class="pageSectionHeader">
 
 ## Attachments:
 
-</div>
 
-<div class="greybox" data-align="left">
 
 ![](images/icons/bullet_blue.gif)
 [worddav638a05df1dbcdee1ddba6139af48bd39.png](attachments/83854812/83854825.png)
@@ -68,4 +65,3 @@
 [image2017-7-2\_23-27-26.png](attachments/83854812/84046395.png)
 (image/png)  
 
-</div>

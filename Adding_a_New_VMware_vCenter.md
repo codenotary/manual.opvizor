@@ -16,24 +16,9 @@
     The new VMware vCenter is added - Btw. we detect VMware vSAN
     automatically if available.
 
-Related Topics:
-
-  - [Edit a
-    vCenter](https://opvizor.atlassian.net/wiki/spaces/OPVPA/pages/84026929/Editing+a+vCenter)
-  - [Test a
-    vCenter](https://opvizor.atlassian.net/wiki/spaces/OPVPA/pages/84027110/Testing+a+vCenter)
-  - [Delete a
-    vCenter](https://opvizor.atlassian.net/wiki/spaces/OPVPA/pages/84027265/Deleting+a+vCenter)
-
-  
-
-<div class="pageSectionHeader">
 
 ## Attachments:
 
-</div>
-
-<div class="greybox" data-align="left">
 
 ![](images/icons/bullet_blue.gif)
 [image2017-6-21\_22-50-58.png](attachments/84026819/84026832.png)
@@ -54,4 +39,3 @@ Related Topics:
 [image2019-5-7\_15-24-36.png](attachments/84026819/898695212.png)
 (image/png)  
 
-</div>

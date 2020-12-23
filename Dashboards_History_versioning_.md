@@ -14,17 +14,10 @@ dashboard.
 
 ![](attachments/106496001/105873415.png?height=250)
 
-  
-
-<div class="pageSectionHeader">
 
 ## Attachments:
 
-</div>
 
-<div class="greybox" data-align="left">
-
-![](images/icons/bullet_blue.gif)
 [image2017-7-25\_11-39-19.png](attachments/106496001/106496005.png)
 (image/png)  
 ![](images/icons/bullet_blue.gif)
@@ -46,4 +39,3 @@ dashboard.
 [version\_history2.png](attachments/106496001/105873415.png)
 (image/png)  
 
-</div>

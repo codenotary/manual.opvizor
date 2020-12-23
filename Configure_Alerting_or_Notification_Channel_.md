@@ -47,13 +47,9 @@ panel of a dashboard. To set and alert on a panel:
     Alert Lis**t.  
     ![](attachments/84083822/86638616.png?height=250) 
 
-<div class="pageSectionHeader">
 
 ## Attachments:
 
-</div>
-
-<div class="greybox" data-align="left">
 
 ![](images/icons/bullet_blue.gif)
 [image2017-7-3\_23-15-21.png](attachments/84083822/84083896.png)
@@ -71,4 +67,3 @@ panel of a dashboard. To set and alert on a panel:
 [image2017-7-26\_22-33-29.png](attachments/84083822/86638616.png)
 (image/png)  
 
-</div>

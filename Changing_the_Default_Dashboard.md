@@ -15,13 +15,9 @@ If you want to change the default dashboard:
     ![](attachments/83855119/84046687.png?height=250)
 3.  Click the green **Update** button.
 
-<div class="pageSectionHeader">
 
 ## Attachments:
 
-</div>
-
-<div class="greybox" data-align="left">
 
 ![](images/icons/bullet_blue.gif)
 [image2017-7-1\_23-26-39.png](attachments/83855119/84036583.png)
@@ -36,4 +32,3 @@ If you want to change the default dashboard:
 [image2017-7-2\_23-51-37.png](attachments/83855119/84046687.png)
 (image/png)  
 
-</div>
