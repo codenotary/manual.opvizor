@@ -28,35 +28,3 @@ B\&R:
 
 ![](attachments/146702337/146833412.png?height=250)
 
-  
-
-  
-
-  
-
-<div class="pageSectionHeader">
-
-## Attachments:
-
-</div>
-
-<div class="greybox" data-align="left">
-
-![](images/icons/bullet_blue.gif)
-[netapp-dashboards.png](attachments/146702337/146702341.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[netapp-add.png](attachments/146702337/146702344.png) (image/png)  
-![](images/icons/bullet_blue.gif)
-[veeam\_patch.png](attachments/146702337/146604051.png) (image/png)  
-![](images/icons/bullet_blue.gif)
-[veeam\_admin.png](attachments/146702337/146735110.png) (image/png)  
-![](images/icons/bullet_blue.gif)
-[veeam\_admin2.png](attachments/146702337/146767889.png) (image/png)  
-![](images/icons/bullet_blue.gif)
-[veeam\_dashboard.png](attachments/146702337/146833412.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[veeam\_admin2.png](attachments/146702337/146767884.png) (image/png)  
-
-</div>

@@ -25,27 +25,3 @@ data collection.
 The dashboard uses incremental rendering. To view best, click the
 Refresh-Icon in the upper left corner once the dashboard is loaded.
 
-  
-
-<div class="pageSectionHeader">
-
-## Attachments:
-
-</div>
-
-<div class="greybox" data-align="left">
-
-![](images/icons/bullet_blue.gif)
-[image2018-12-11\_15-30-30.png](attachments/860160001/860192780.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2019-5-6\_10-56-0.png](attachments/860160001/898236417.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2019-5-6\_10-57-20.png](attachments/860160001/898236423.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2019-5-6\_10-58-4.png](attachments/860160001/898203653.png)
-(image/png)  
-
-</div>

@@ -48,22 +48,3 @@ panel of a dashboard. To set and alert on a panel:
     ![](attachments/84083822/86638616.png?height=250) 
 
 
-## Attachments:
-
-
-![](images/icons/bullet_blue.gif)
-[image2017-7-3\_23-15-21.png](attachments/84083822/84083896.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2017-7-26\_22-21-21.png](attachments/84083822/86736901.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2017-7-26\_22-24-30.png](attachments/84083822/86245394.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2017-7-26\_22-26-23.png](attachments/84083822/86376497.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2017-7-26\_22-33-29.png](attachments/84083822/86638616.png)
-(image/png)  
-

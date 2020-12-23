@@ -29,35 +29,3 @@ new views. 
     list and select "**Export**"
 
           
-
-<div class="pageSectionHeader">
-
-## Attachments:
-
-</div>
-
-<div class="greybox" data-align="left">
-
-![](images/icons/bullet_blue.gif)
-[worddave52c19dbcac1b26312a64327f40f3d06.png](attachments/83854167/83854179.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[worddav69edf648f8ac183a0d6f9a7f661a0121.png](attachments/83854167/83854186.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[worddav06dbff2300c14185a21435067a9e145e.png](attachments/83854167/83854197.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[worddav5be4bf5119573609c4923f11cbbbc51e.png](attachments/83854167/83854206.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[worddavb3763aa4a64e94e607ca19d533ae443d.png](attachments/83854167/83854215.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[worddav1f04558543a7ec0ca05486a1f0e696a6.png](attachments/83854167/83854227.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[worddav07481bb2ca03400983bd638b67b60558.png](attachments/83854167/83854235.png)
-(image/png)  
-
-</div>

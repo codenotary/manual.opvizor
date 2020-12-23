@@ -36,37 +36,3 @@ traffic as well as occurring errors. That can be easily combined with
 VMware ESXi information and metrics to get a full picture.
 
 ![](attachments/900595713/900562972.png?width=680)
-
-<div class="pageSectionHeader">
-
-## Attachments:
-
-</div>
-
-<div class="greybox" data-align="left">
-
-![](images/icons/bullet_blue.gif)
-[image-20190517-080414.png](attachments/900595713/900661258.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image-20190517-080442.png](attachments/900595713/900661267.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[navigation.png](attachments/900595713/900595772.png) (image/png)  
-![](images/icons/bullet_blue.gif)
-[environmental.png](attachments/900595713/900661289.png) (image/png)  
-![](images/icons/bullet_blue.gif)
-[network\_port.png](attachments/900595713/900628489.png) (image/png)  
-![](images/icons/bullet_blue.gif)
-[ucs\_serverports.png](attachments/900595713/900595743.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[navigation.png](attachments/900595713/900595725.png) (image/png)  
-![](images/icons/bullet_blue.gif)
-[ciscoucs\_pa491.png](attachments/900595713/900562972.png) (image/png)  
-![](images/icons/bullet_blue.gif)
-[environmental.png](attachments/900595713/900595731.png) (image/png)  
-![](images/icons/bullet_blue.gif)
-[network\_port.png](attachments/900595713/900595737.png) (image/png)  
-
-</div>

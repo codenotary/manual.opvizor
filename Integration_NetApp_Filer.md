@@ -37,17 +37,9 @@ tls.enable on
 limited
 rights)**
 
-  
 
-<div class="code panel pdl" style="border-width: 1px;">
-
-<div class="codeHeader panelHeader pdl" style="border-bottom-width: 1px;">
 
 **NetApp User Integration**
-
-</div>
-
-<div class="codeContent panelContent pdl">
 
 ``` bash
 # NetApp 7-Mode
@@ -89,10 +81,6 @@ security login create -vserver <cluster_svm> -user-or-group-name opvizor-pacolle
 security login create -vserver <cluster_svm> -user-or-group-name opvizor-pacollect -application ontapi -authmethod password -role opvizor-pacollect-role
 ```
 
-</div>
-
-</div>
-
   
 
 ## Dashboards
@@ -107,18 +95,3 @@ We automatically add both, Dashboards for 7Mode and Cluster Mode. You
 can safely delete the dashboards you don´t want.
 
   
-
-<div class="pageSectionHeader">
-
-## Attachments:
-
-</div>
-
-<div class="greybox" data-align="left">
-
-![](images/icons/bullet_blue.gif)
-[netapp-add.png](attachments/84219590/84219630.png) (image/png)  
-![](images/icons/bullet_blue.gif)
-[netapp-dashboards.png](attachments/84219590/84219655.png) (image/png)  
-
-</div>

@@ -68,25 +68,3 @@ routine](https://vimeo.com/221810085) from [opvizor](https://vimeo.com/opvizor
 You can also edit or delete the playlist by clicking the buttons
 ![](attachments/84037334/84037971.png)on the right of the screen.
 
-<div class="pageSectionHeader">
-
-## Attachments:
-
-</div>
-
-<div class="greybox" data-align="left">
-
-![](images/icons/bullet_blue.gif)
-[image2017-7-1\_23-57-41.png](attachments/84037334/84037784.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2017-7-1\_23-59-16.png](attachments/84037334/84037814.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2017-7-2\_0-5-44.png](attachments/84037334/84037934.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2017-7-2\_0-7-15.png](attachments/84037334/84037971.png)
-(image/png)  
-
-</div>

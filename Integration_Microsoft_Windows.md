@@ -37,27 +37,3 @@ Dashboard:
   
 That's it
 
-<div class="pageSectionHeader">
-
-## Attachments:
-
-</div>
-
-<div class="greybox" data-align="left">
-
-![](images/icons/bullet_blue.gif)
-[veeam\_admin2.png](attachments/328499201/328499204.png) (image/png)  
-![](images/icons/bullet_blue.gif)
-[veeam\_dashboard.png](attachments/328499201/328499207.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[veeam\_admin.png](attachments/328499201/328499210.png) (image/png)  
-![](images/icons/bullet_blue.gif)
-[veeam\_patch.png](attachments/328499201/328499213.png) (image/png)  
-![](images/icons/bullet_blue.gif)
-[netapp-add.png](attachments/328499201/328499216.png) (image/png)  
-![](images/icons/bullet_blue.gif)
-[netapp-dashboards.png](attachments/328499201/328499219.png)
-(image/png)  
-
-</div>

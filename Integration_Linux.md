@@ -30,33 +30,3 @@ imports the Linux: Host Overview Dashboard:
   
 That's it
 
-<div class="pageSectionHeader">
-
-## Attachments:
-
-</div>
-
-<div class="greybox" data-align="left">
-
-![](images/icons/bullet_blue.gif)
-[netapp-dashboards.png](attachments/375259143/375259146.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[netapp-add.png](attachments/375259143/375259149.png) (image/png)  
-![](images/icons/bullet_blue.gif)
-[veeam\_patch.png](attachments/375259143/375259152.png) (image/png)  
-![](images/icons/bullet_blue.gif)
-[veeam\_admin.png](attachments/375259143/375259155.png) (image/png)  
-![](images/icons/bullet_blue.gif)
-[veeam\_dashboard.png](attachments/375259143/375259158.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[veeam\_admin2.png](attachments/375259143/375259161.png) (image/png)  
-![](images/icons/bullet_blue.gif)
-[image2017-12-18\_16-29-19.png](attachments/375259143/374669341.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2017-12-18\_16-44-5.png](attachments/375259143/375357453.png)
-(image/png)  
-
-</div>

@@ -2,9 +2,6 @@
 
 Thank you for your interest in our Performance Analyzer product.
 
-[Change Log /
-Patch](https://opvizor.atlassian.net/wiki/spaces/OPVPA/pages/82057456) (customer
-portal)
 
 [Installing the Virtual Appliance](Installing_the_Virtual_Appliance)
 
@@ -34,8 +31,6 @@ Manager](Integration_Veeam_Backup_Enterprise_Manager)
 [NetApp Solidfire](Integration_NetApp_Solidfire)
 
 [Design your own Dashboards](Design_your_own_dashboards)
-
-[Integrations](Integrations)
 
 [Data Retention](Data_Retention) (customer
 portal)

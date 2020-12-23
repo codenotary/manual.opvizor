@@ -29,16 +29,3 @@ patch that needs to be applied.
     gv$sysmetric , gv$parameter , gv$con\_sysmetric , gv$eventmetric
     , gv$event\_name, gv$sql 
 
-<div class="pageSectionHeader">
-
-## Attachments:
-
-</div>
-
-<div class="greybox" data-align="left">
-
-![](images/icons/bullet_blue.gif)
-[image2018-12-19\_14-40-3.png](attachments/861470723/861569025.png)
-(image/png)  
-
-</div>

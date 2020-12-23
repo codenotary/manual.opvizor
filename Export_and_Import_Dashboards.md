@@ -39,28 +39,3 @@ To import a dashboard,
     2.  Provide a Grafana.net dashboard url or id.
     3.  Paste the JSON text into the text box and click **Load**.
 
-<div class="pageSectionHeader">
-
-## Attachments:
-
-</div>
-
-<div class="greybox" data-align="left">
-
-![](images/icons/bullet_blue.gif)
-[image2017-7-25\_11-32-26.png](attachments/85229574/85819393.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2017-7-25\_11-32-57.png](attachments/85229574/85852161.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2017-7-25\_11-36-26.png](attachments/85229574/85262363.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2017-7-25\_11-38-0.png](attachments/85229574/85917697.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2017-7-25\_11-39-19.png](attachments/85229574/85950468.png)
-(image/png)  
-
-</div>

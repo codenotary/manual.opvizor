@@ -66,23 +66,3 @@ To diagnose issues with your system:
 2.  The file downloads.
 3.  Double click the file to unzip it.
 
-Next Topic: [VMware vCenter](VMware_vCenter)
-
-  
-
-<div class="pageSectionHeader">
-
-## Attachments:
-
-</div>
-
-<div class="greybox" data-align="left">
-
-![](images/icons/bullet_blue.gif)
-[image2017-6-21\_22-49-13.png](attachments/83855709/83855799.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2019-5-7\_15-23-16.png](attachments/83855709/898629684.png)
-(image/png)  
-
-</div>

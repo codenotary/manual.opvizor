@@ -28,27 +28,3 @@ Describe and how to add a new report.
 You can also edit, delete, or test a report by clicking the Action
 button to the right of an existing report. 
 
-Next Topic: 
-
-<div class="pageSectionHeader">
-
-## Attachments:
-
-</div>
-
-<div class="greybox" data-align="left">
-
-![](images/icons/bullet_blue.gif)
-[image2017-6-21\_22-53-19.png](attachments/83856034/83856054.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2017-6-29\_23-48-44.png](attachments/83856034/84018943.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2017-6-29\_23-32-54.png](attachments/83856034/84019161.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2019-5-7\_16-4-44.png](attachments/83856034/898465858.png)
-(image/png)  
-
-</div>

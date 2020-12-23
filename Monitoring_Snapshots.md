@@ -19,19 +19,3 @@ Snapshots in your Dashboard list:
 
 ![](attachments/84083734/85393421.png?height=250)
 
-<div class="pageSectionHeader">
-
-## Attachments:
-
-</div>
-
-<div class="greybox" data-align="left">
-
-![](images/icons/bullet_blue.gif)
-[image2017-7-2\_0-11-3.png](attachments/84083734/84084116.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2017-7-25\_10-44-36.png](attachments/84083734/85393421.png)
-(image/png)  
-
-</div>

@@ -36,16 +36,3 @@ of snapshots as well as their size.
   - [Monitoring Snapshots](Monitoring_Snapshots)
   - [Calculation of Snapshot Space](Calculation_of_Snapshot_Space)
 
-<div class="pageSectionHeader">
-
-## Attachments:
-
-</div>
-
-<div class="greybox" data-align="left">
-
-![](images/icons/bullet_blue.gif)
-[image2017-7-2\_0-11-3.png](attachments/84037398/84038214.png)
-(image/png)  
-
-</div>

@@ -17,25 +17,3 @@
     automatically if available.
 
 
-## Attachments:
-
-
-![](images/icons/bullet_blue.gif)
-[image2017-6-21\_22-50-58.png](attachments/84026819/84026832.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2017-6-29\_23-29-15.png](attachments/84026819/84026836.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2017-6-29\_23-32-54.png](attachments/84026819/84026840.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2017-7-5\_23-14-43.png](attachments/84026819/84125259.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2019-5-7\_15-24-16.png](attachments/84026819/898629690.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2019-5-7\_15-24-36.png](attachments/84026819/898695212.png)
-(image/png)  
-

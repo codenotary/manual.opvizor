@@ -13,22 +13,3 @@ the sharing by specifying a data range, template variables or theme.
 
   
 
-<div class="pageSectionHeader">
-
-## Attachments:
-
-</div>
-
-<div class="greybox" data-align="left">
-
-![](images/icons/bullet_blue.gif)
-[image2017-7-25\_11-45-10.png](attachments/85819399/86081540.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2017-7-25\_11-46-24.png](attachments/85819399/86212609.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2017-7-25\_11-46-24.png](attachments/85819399/85983236.png)
-(image/png)  
-
-</div>

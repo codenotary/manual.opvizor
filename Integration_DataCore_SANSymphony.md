@@ -128,7 +128,7 @@ change\!
 
   
 Download Link – opvizor-datacore Datensammler:
-<https://storage.googleapis.com/opvizor/Datacore/opvizor-datacore.zip>  
+<https://opvizor-perfanalyzer.s3-eu-west-1.amazonaws.com/Datacore/opvizor-datacore.zip>  
 **Unblock the archive\! Please make sure to unblock the downloaded
 archive:**  
 ![](attachments/82057165/82057184.png?width=225)  
@@ -169,7 +169,7 @@ Click Save & Test.
 Now, you need to import the DataCore Dashboard json file that can be
 found
 here:  
-<https://storage.googleapis.com/opvizor/Datacore/DataCore%20SANSymphony%20Influx-1524149879665.json>  
+<https://opvizor-perfanalyzer.s3-eu-west-1.amazonaws.com/Datacore/DataCore+SANSymphony+Influx-1524149879665.json>  
 ![](attachments/82057165/1034092559.png?height=400)  
 When importing the dashboard please select DataCoreInflux as the Influx
 datasource.
@@ -182,43 +182,3 @@ If you want to uninstall the service for any reason, you can do so by
 running telegraf --service uninstall within the installation directory
 as an administrator.
 
-<div class="pageSectionHeader">
-
-## Attachments:
-
-</div>
-
-<div class="greybox" data-align="left">
-
-![](images/icons/bullet_blue.gif)
-[worddav9c33d0c9ce1b428a29ba9d83fce74029.png](attachments/82057165/82057164.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[worddavf6d8b31700c876ec71f764635724a9c1.png](attachments/82057165/82057172.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[worddavda248ae6f3de40e960d85e7e8885cba1.png](attachments/82057165/82057178.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[worddave69fc6a73bb33623489a1a59338d777b.png](attachments/82057165/82057184.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[worddav4f3f832c99c2e71176046f949a9999dd.png](attachments/82057165/82057190.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[worddavd3d2cd515ea5890a25fcc4d08c6e0a48.png](attachments/82057165/793116673.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[worddavee4e32ae0e2a5ca86319aafe91dcdde5.png](attachments/82057165/793116679.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[worddavf043564b5444f7f9eb89543962ae6e93.png](attachments/82057165/793116685.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2020-2-12\_14-52-16.png](attachments/82057165/1034092551.png)
-(image/png)  
-![](images/icons/bullet_blue.gif)
-[image2020-2-12\_14-53-21.png](attachments/82057165/1034092559.png)
-(image/png)  
-
-</div>
