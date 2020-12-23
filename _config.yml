@@ -31,7 +31,6 @@ include:
   - Integration_NetApp_Solidfire.md
   - Integration_Nutanix_Prism_Central.md
   - Integration_Oracle_Database.md
-  - Integrations.md
   - Integration_Veeam_Backup_Enterprise_Manager.md
   - Integration_VMware_Horizon_View.md
   - Logging_into_Performance_Analyzer.md
@@ -40,7 +39,6 @@ include:
   - Monitoring_Snapshots.md
   - Multi-Tenant_Environments.md
   - Navigating_Performance_Analyzer.md
-  - Opvizor_Performance_Analyzer_Online_Documentation.md
   - Overview.md
   - Performance_Analyzer_First_Steps.md
   - Playlists.md

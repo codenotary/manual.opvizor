@@ -2,6 +2,7 @@
 
 ## Available Pages:
 
+  - CodeNotary Ledger Compliance Metrics and Logs Documentation
       - [Getting Started](Getting_Started)
           - [Installing the Virtual
             Appliance](Installing_the_Virtual_Appliance)
