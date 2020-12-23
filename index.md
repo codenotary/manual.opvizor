@@ -1,19 +1,6 @@
 # OPVPA (PerfAnalyzer)
 
-<div id="main-content" class="pageSection">
-
-</div>
-
-  
-  
-
-<div class="pageSection">
-
-<div class="pageSectionHeader">
-
 ## Available Pages:
-
-</div>
 
   - [Opvizor Performance Analyzer Online
     Documentation](Opvizor_Performance_Analyzer_Online_Documentation.md)
@@ -121,5 +108,3 @@
         <!-- end list -->
           - [FAQ](FAQ)
               - [Maintaining Time](Maintaining_Time.md)
-
-</div>
