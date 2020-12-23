@@ -1,6 +1,6 @@
 # CodeNotary Ledger Compliance Metrics and Logs (former Opvizor PerformanceAnalyzer)
 
-## Available Pages:
+## Content:
 
   - CodeNotary Ledger Compliance Metrics and Logs Documentation
       - [Getting Started](Getting_Started)
