@@ -1,9 +1,7 @@
-# OPVPA (PerfAnalyzer)
+# CodeNotary Ledger Compliance Metrics and Logs (former Opvizor PerformanceAnalyzer)
 
 ## Available Pages:
 
-  - [Opvizor Performance Analyzer Online
-    Documentation](Opvizor_Performance_Analyzer_Online_Documentation)
       - [Getting Started](Getting_Started)
           - [Installing the Virtual
             Appliance](Installing_the_Virtual_Appliance)
