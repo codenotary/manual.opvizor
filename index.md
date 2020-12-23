@@ -4,7 +4,6 @@
 
   - [Opvizor Performance Analyzer Online
     Documentation](Opvizor_Performance_Analyzer_Online_Documentation.md)
-    ![](images/icons/contenttypes/home_page_16.png)
       - [Getting Started](Getting_Started-md)
           - [Installing the Virtual
             Appliance](Installing_the_Virtual_Appliance.md)
