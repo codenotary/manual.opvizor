@@ -1,11 +1,7 @@
 # SSL Details (CSR generation)
 
-<div class="toc-macro rbtoc1606556355824">
-
   - [Enable HTTPS](#SSLDetails\(CSRgeneration\)-EnableHTTPS)
   - [Create your own CSR](#SSLDetails\(CSRgeneration\)-CreateyourownCSR)
-
-</div>
 
 # Enable HTTPS
 
@@ -32,15 +28,9 @@ installed.
 Login using the admin user (admin:VMware123) and select 1 to access the
 shell.
 
-<div class="code panel pdl" style="border-width: 1px;">
-
-<div class="codeHeader panelHeader pdl" style="border-bottom-width: 1px;">
 
 **Create CSR**
 
-</div>
-
-<div class="codeContent panelContent pdl">
 
 ``` bash
 admin@opvperf:~$ umask 077
@@ -80,9 +70,6 @@ drwxr-xr-x 8 admin admin 4096 Oct 26 17:21 ..
 admin@opvperf:~/cert$ 
 ```
 
-</div>
-
-</div>
 
   
 
