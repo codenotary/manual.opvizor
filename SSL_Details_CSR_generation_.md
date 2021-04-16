@@ -81,7 +81,10 @@ In detail:
     Certificate Authority. You just need to fill in the details
     according to your needs. Most important is the Common Name (CN), the
     full network name, Performance Analyzer will be opened in the
-    browser, i. e. opvperf.example.org.
+    browser, i. e. opvperf.example.org. If you want to add a 
+    SubjectAlternativeName, you can add the parameter 
+    ```-addext "subjectAltName = DNS:perfanalyzer.example.com"``` to your
+    commandline.
 4.  Important: if you chose a challenge password (default is none), you
     will need to type it into the Performance Analyzer appliance console
     after every reboot. There is also a restart required whenever you
