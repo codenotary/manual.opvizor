@@ -4,21 +4,15 @@
 
   - CodeNotary Ledger Compliance Metrics and Logs Documentation
       - [Getting Started](Getting_Started)
-          - [Installing the Virtual
-            Appliance](Installing_the_Virtual_Appliance)
-              - [SSL Details (CSR
-                generation)](SSL_Details_CSR_generation_)
+          - [Installing the Virtual Appliance](Installing_the_Virtual_Appliance)
+              - [SSL Details (CSR generation)](SSL_Details_CSR_generation_)
           - [Using opvizor PerfAnalyzer](Using_opvizor_PerfAnalyzer)
-              - [Logging into Performance
-                Analyzer](Logging_into_Performance_Analyzer)
-              - [Navigating Performance
-                Analyzer](Navigating_Performance_Analyzer)
-              - [Performance Analyzer First
-                Steps](Performance_Analyzer_First_Steps)
+              - [Logging into Performance Analyzer](Logging_into_Performance_Analyzer)
+              - [Navigating Performance Analyzer](Navigating_Performance_Analyzer)
+              - [Performance Analyzer First Steps](Performance_Analyzer_First_Steps)
                   - [Overview](Overview)
                   - [VMware vCenter](VMware_vCenter)
-                      - [Adding a New VMware
-                        vCenter](Adding_a_New_VMware_vCenter)
+                      - [Adding a New VMware vCenter](Adding_a_New_VMware_vCenter)
                       - [Editing a vCenter](Editing_a_vCenter)
                       - [Testing a vCenter](Testing_a_vCenter)
                       - [Deleting a vCenter](Deleting_a_vCenter)
@@ -27,43 +21,32 @@
                   - [Reports](Reports)
               - [Dashboards](Dashboards)
                   - [Using Dashboards](Using_Dashboards)
-                  - [Changing the Default
-                    Dashboard](Changing_the_Default_Dashboard)
+                  - [Changing the Default Dashboard](Changing_the_Default_Dashboard)
                   - [Playlists](Playlists)
                   - [Snapshots](Snapshots)
                       - [Monitoring Snapshots](Monitoring_Snapshots)
-                      - [Calculation of Snapshot
-                        Space](Calculation_of_Snapshot_Space)
-                  - [Configure Alerting (or Notification
-                    Channel)](Configure_Alerting_or_Notification_Channel_)
-                  - [Export and Import
-                    Dashboards](Export_and_Import_Dashboards)
+                      - [Calculation of Snapshot Space](Calculation_of_Snapshot_Space)
+                  - [Configure Alerting (or Notification Channel)](Configure_Alerting_or_Notification_Channel_)
+                  - [Export and Import Dashboards](Export_and_Import_Dashboards)
                   - [Share a Dashboard Link](Share_a_Dashboard_Link)
-                  - [Dashboards History
-                    (versioning)](Dashboards_History_versioning_)
+                  - [Dashboards History (versioning)](Dashboards_History_versioning_)
               - [Administration Settings](Administration_Settings)
               - [Multi-Tenant Environments](Multi-Tenant_Environments)
               - [Data Retention](Data_Retention)
-          - [Integration Nutanix Prism
-            Central](Integration_Nutanix_Prism_Central)
-          - [Integration Microsoft Windows
-            Hyper-V](Integration_Microsoft_Windows_Hyper-V)
+          - [Integration Cisco UCS](Integration_Cisco_UCS)
+          - [Integration DataCore SANSymphony](Integration_DataCore_SANSymphony)
           - [Integration Kubernetes](Integration_Kubernetes)
           - [Integration Linux](Integration_Linux)
-          - [Integration Microsoft
-            Windows](Integration_Microsoft_Windows)
-          - [Integration Microsoft SQL Server
-            (agentless)](Integration_Microsoft_SQL_Server_agentless_)
-          - [Integration Oracle Database](Integration_Oracle_Database)
-          - [Integration VMware Horizon
-            View](Integration_VMware_Horizon_View)
-          - [Integration Veeam Backup Enterprise
-            Manager](Integration_Veeam_Backup_Enterprise_Manager)
-          - [Integration Cisco UCS](Integration_Cisco_UCS)
-          - [Integration DataCore
-            SANSymphony](Integration_DataCore_SANSymphony)
+          - [Integration Microsoft Azure](Integration_Microsoft_Azure)
+          - [Integration Microsoft SQL Server (agentless)](Integration_Microsoft_SQL_Server_agentless_)
+          - [Integration Microsoft Windows](Integration_Microsoft_Windows)
+          - [Integration Microsoft Windows Hyper-V](Integration_Microsoft_Windows_Hyper-V)
           - [Integration NetApp Filer](Integration_NetApp_Filer)
           - [Integration NetApp Solidfire](Integration_NetApp_Solidfire)
+          - [Integration Nutanix Prism Central](Integration_Nutanix_Prism_Central)
+          - [Integration Oracle Database](Integration_Oracle_Database)
+          - [Integration Veeam Backup Enterprise Manager](Integration_Veeam_Backup_Enterprise_Manager)
+          - [Integration VMware Horizon View](Integration_VMware_Horizon_View)
           - [Design your own dashboards](Design_your_own_dashboards)
           - [FAQ](FAQ)
               - [Maintaining Time](Maintaining_Time)
