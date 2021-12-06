@@ -5,7 +5,7 @@
 1. Open Azure Portal, proceed to Azure Active Directory.  
 2. In the menu on the left, select "App registrations".  
 3. In the navigation bar on the top of App registrations page, select "+ New registration".  
-4. In the "Register an application" page, enter a name for the app - e.g. *Metrics and Logs*. For supported account type, you can stay with the default, the optional Redirect URI can stay empty.  
+4. In the "Register an application" page, enter a name for the app - e.g. *Metrics and Logs*. For supported account type, you can leave the default, the optional Redirect URI can leave empty.  
   
 ![](images/azure_create_app_registration.png)  
 5. After creation, Azure will show you the new App registration entry. Copy the Application (Client) ID and the Directory (tenant) ID. Create a client secret with the "Client credentials" link.  
